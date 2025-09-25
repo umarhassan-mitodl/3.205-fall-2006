@@ -5,6 +5,8 @@ description: This is a resource which contains information on solutions to the d
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/90b4b7376505ab14ba82d95309083961_lecture03_slides.pdf
 file_size: 416004
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

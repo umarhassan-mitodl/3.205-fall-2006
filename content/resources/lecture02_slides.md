@@ -7,6 +7,8 @@ description: 'This is a resource which contains information on mass diffusion in
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/dd4e2a11a931f6728ca6836f0a6a4f32_lecture02_slides.pdf
 file_size: 252435
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: 'This file is a resource which contains information on solidificati
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/84ea4e0e2ab2a8bd707efee12f22220e_lecture09_slides.pdf
 file_size: 78292
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

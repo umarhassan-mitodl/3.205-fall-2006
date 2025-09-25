@@ -7,6 +7,8 @@ description: 'This file is a resource which contains information on the role of 
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/e54954cc4529ee71502b8950be7ddde0_lecture06_slides.pdf
 file_size: 1244505
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

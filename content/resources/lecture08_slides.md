@@ -7,6 +7,8 @@ description: 'This file is a resource which contains information on diffusional 
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/def4b66e8a099ae20056d37f6520fe0b_lecture08_slides.pdf
 file_size: 180159
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
