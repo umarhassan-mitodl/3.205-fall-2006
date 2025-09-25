@@ -6,6 +6,8 @@ description: This is a resource which contains information on fields and gradien
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/51c50576b319acaf26bcce70746fe3f8_lecture01_review.pdf
 file_size: 41804
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource is a problem set from the kinetics segment of the cou
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/16920ff184b4937e294f9fb177736c4a_hw_9.pdf
 file_size: 45610
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains solutions to a problem set from the kinetics
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/78ea246410c69da9526f5905c95eaca9_ps7_sol.pdf
 file_size: 120990
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

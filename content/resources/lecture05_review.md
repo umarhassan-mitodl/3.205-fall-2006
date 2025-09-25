@@ -7,6 +7,8 @@ description: 'This is a resource which contains information on diffusion in ioni
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/8afa631d9005fef60e83e45f2a99c80a_lecture05_review.pdf
 file_size: 39185
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

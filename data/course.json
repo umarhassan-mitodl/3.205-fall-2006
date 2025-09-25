@@ -33,6 +33,7 @@
     "website": "3-205-thermodynamics-and-kinetics-of-materials-fall-2006"
   },
   "course_title": "Thermodynamics and Kinetics of Materials",
+  "hide_download": true,
   "course_description": "This course explores materials and materials processes from the perspective of thermodynamics and kinetics. The thermodynamics aspect includes laws of thermodynamics, solution theory and equilibrium diagrams. The kinetics aspect includes diffusion, phase transformations, and the development of microstructure.\n",
   "department_numbers": [
     "3"
@@ -43,6 +44,7 @@
     "content": "57f75624-c3f4-9cbe-f24c-aed70eaa7eaf",
     "website": "3-205-thermodynamics-and-kinetics-of-materials-fall-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",
